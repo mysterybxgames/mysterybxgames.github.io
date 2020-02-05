@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.homeContainer {
+    background-color: #1A1A1A;
+    color: #E0E0E0;
+    display: flex;
+    min-height: 100vh;
+}
+
+.homeContainer span {
+    font-family: Arial;
+    font-size: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
